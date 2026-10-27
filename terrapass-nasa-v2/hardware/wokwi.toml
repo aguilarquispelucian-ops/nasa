@@ -1,0 +1,9 @@
+[wokwi]
+version = 1
+firmware = "esp32_firmware.ino"
+elf = "esp32_firmware.ino"
+rfc2217ServerPort = 4000
+
+[net]
+# Habilita la salida HTTPS desde el ESP32 emulado hacia Supabase Cloud
+forward = ["80:localhost:8080"]

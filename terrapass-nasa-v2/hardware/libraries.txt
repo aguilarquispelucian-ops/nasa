@@ -1,0 +1,13 @@
+# Wokwi Library List
+# Documentacion: https://docs.wokwi.com/guides/libraries
+
+WiFi
+HTTPClient
+Wire
+DHT sensor library for ESPx
+Adafruit MPU6050
+Adafruit Unified Sensor
+Adafruit BusIO
+Adafruit GFX Library
+Adafruit SSD1306
+ArduinoJson
